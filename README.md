@@ -49,6 +49,6 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ## Contact
 
-For any inquiries or feedback, please contact [abrahamoaks@gmail.com](mailto:your_email@example.com).
+For any inquiries or feedback, please feel free to contact me via [abrahamoaks@gmail.com](mailto:your_email@example.com).
 
 Let's optimize deep learning together! 🚀
