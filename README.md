@@ -32,7 +32,7 @@ To get started with optimizing deep learning algorithms using this repository, f
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Abraham-Obianke/optimizing-deep-learning-algorithms.git
+   git clone https://github.com/Abraham-Obianke/Optimizing-Deep-Learning-Algorithms.git
    ```
 
 2. Explore the contents of the repository, including implementations and resources.
